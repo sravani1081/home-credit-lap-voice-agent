@@ -52,7 +52,7 @@ The agent was tested against scenarios including:
 - Customer answer corrections.
 
 ## Project Links
-- Published Voice Agent: [Add your published agent link here]
+- Published Voice Agent: [https://agent.retellai.com/orb/agent_17e4ab1c4f713e9afd8cbd2336?token=ad13f489c690b51d87af581c6c16d507]
 
 ## Technology
 - Retell AI
